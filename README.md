@@ -1,6 +1,10 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
     * PHP, Angular, Frameworks and other web dev technologies
+    
+  ![Cute Cat]("https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2020%2F06%2F27%2Fwhite-cat-big-eyes-cat-ledge-1127317526-2000.jpg")
+
+
 
 <!--
 **esthergiles/esthergiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
