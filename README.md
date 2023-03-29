@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👩‍💼 Open to work as a Software Developer · Software Engineer · PHP Developer · Full Stack Engineer · Full Stack Developer · Technical Engineer
+- 👩‍💼 I'm currently open to work in Software Development/Engineering · PHP Development · Full Stack Engineering · Technical Engineering
 - 🌱 I’m currently learning ...
     * PHP, Laravel, Angular and other web dev technologies
 - 🔭 I’m currently working on ...
@@ -9,7 +9,7 @@
    * Open source projects or programs centered around 
       * Women's in STEM
       * Conservation
-      * Represenation and equality fo Black, Indigenous, and People of Color (BIPOC) in outdoor spaces
+      * Representation and equality of Black, Indigenous, and People of Color (BIPOC) in outdoor spaces
 - 🤔 I’m looking for help with ...
    * Integrating frameworks into existing projects
 - 💬 Ask me about ...
