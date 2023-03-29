@@ -17,5 +17,4 @@
    * CI/CD Pipelines in Heroku
 - 📫 How to reach me: ...
    * ebrown0727@gmail.com
-- ⚡ Fun fact: ...
-   * I've been traveling and working remotely in a truck camper since November of 2022.
+<!-- - ⚡ Fun fact: ... -->
