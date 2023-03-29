@@ -4,6 +4,7 @@
     * PHP, Laravel, Angular and other web dev technologies
 - 🔭 I’m currently working on ...
    * A [Laravel application](https://github.com/esthergiles/natureMediaWorks) for nature photographer and 2022 AT Thru-Hiker [Daniel Bauer](https://www.youtube.com/@nmwdanielbauer3586)
+   * Website design in Figma
 
 - 👯 I’m looking to collaborate on ...
    * Open source projects or programs centered around 
