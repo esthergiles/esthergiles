@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👩‍💼 I'm currently open to work in Software Development/Engineering · PHP Development · Full Stack Engineering · Technical Engineering
-- Check out my Portfolio here >> [The Goods](https://esthergiles.github.io/portfolio/)
+- Check out my Working Portfolio here >> [The Goods](https://esthergiles.github.io/portfolio/)
 - 🌱 I’m currently learning ...
     * PHP, Laravel, Angular and other web dev technologies
 - 🔭 I’m currently working on ...
