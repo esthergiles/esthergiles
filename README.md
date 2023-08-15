@@ -3,7 +3,7 @@
 - Check out my Working Portfolio here >> [The Goods](https://esthergiles.github.io/portfolio/)
 - 💻 Recent Projects in AI
     * [Digital Marketing Ad Generator](https://github.com/esthergiles/php_ai_api) >> web app that uses PHP to make requests and post data from an OpenAI API
-    * [Break It Off](https://github.com/esthergiles/breakup-ai)  >> web app that uses React, TailwindCSS, and Node.js to make requests and post data from an OpenAI API and generate cheeky breakup letters
+    * [Break It Off](https://github.com/esthergiles/breakup-ai)  >> web app that generates cheeky breakup letters by using React, TailwindCSS, and Node.js to make requests and post data from an OpenAI API.
 - 🌱 I’m currently learning ...
     * PHP, Laravel, Angular, React, TailwindCSS, Node.js, OpenAI API Technologies and other web dev technologies
 - 🔭 I’m currently working on ...
