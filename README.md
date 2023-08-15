@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning ...
     * PHP, Laravel, Angular and other web dev technologies
     * OpenAI API >> check out this app that uses [PHP as the backend](https://github.com/esthergiles/php_ai_api)
+    * I also made a web app that utilizes OpenAI to [write Breakup Letters](https://github.com/esthergiles/breakup-ai)
 - 🔭 I’m currently working on ...
    * A [Laravel application](https://github.com/esthergiles/natureMediaWorks) for nature photographer and 2022 AT Thru-Hiker [Daniel Bauer](https://www.youtube.com/@nmwdanielbauer3586)
    * Website design in Figma
