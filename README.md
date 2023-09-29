@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👩‍💼 I'm currently open to work in Software Development/Engineering · PHP Development · Full Stack Engineering · Technical Engineering
+- 👩‍💼 I'm currently working in Front End Software Development
 - Check out my Working Portfolio here >> [The Goods](https://esthergiles.github.io/portfolio/)
 - 💻 Recent Projects in AI
     * [Digital Marketing Ad Generator](https://github.com/esthergiles/php_ai_api) >> web app that uses PHP to make requests and post data from an OpenAI API
