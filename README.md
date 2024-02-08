@@ -18,6 +18,7 @@
       * Representation and equality of Black, Indigenous, and People of Color (BIPOC) in outdoor spaces
 - 🤔 I’m looking for help with ...
    * Integrating frameworks into existing projects
+   * API Key security best practices
 - 💬 Ask me about ...
    * My 2022 thru-hike of the Appalachian Trail
    * CI/CD Pipelines in Heroku
